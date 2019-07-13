@@ -43,10 +43,10 @@ protected:
 };
 ```
 
-C++对象模型如下图：
+该程序的C++对象模型如下图：
 
 <p align="center">
-	<img src=./pictures/cpp_object_model.png alt="Sample"  width="550">
+	<img src=./pictures/cpp_object_model.png alt="Sample"  width="500">
 	<p align="center">
 		<em>C++ 对象模型</em>
 	</p>
